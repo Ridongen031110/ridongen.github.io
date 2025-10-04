@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-course-1
 venue: "Peking University"
-date: 2025-08
+date: 2025-08-04
 location: "Beijing, Shanghai"
 ---
 

@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "(Course attended) 2025 Summer--ANT Summer School in Beijing--Tate Thesis "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-summer-course-1
+venue: "Peking University"
+date: 2025-08
+location: "Beijing, Shanghai"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Download pdf](https://github.com/Ridongen031110/ridongen.github.io/assets/2025 ANT Summer School Tate Thesis Latex Note.pdf)

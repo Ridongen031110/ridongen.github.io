@@ -9,4 +9,4 @@ location: "Beijing, Shanghai"
 ---
 
 
-[Download pdf](https://github.com/Ridongen031110/ridongen.github.io/assets/2025 ANT Summer School Tate Thesis Latex Note.pdf)
+[Download pdf](https://github.com/Ridongen031110/ridongen.github.io/assets/2025-ANT-Summer-School-Tate-Thesis-Latex-Note.pdf)

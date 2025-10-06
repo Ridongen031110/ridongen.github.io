@@ -1,5 +1,5 @@
 ---
-title: "2025 Summer-ANT Summer School in Beijing-Tate Thesis"
+title: "2025 Summer-ANT Summer School in Beijing-Algebraic Geometry"
 collection: publications
 category: attended-notes
 permalink: /publication/2025_Summer-ANT_Summer_School_in_Beijing-AG

@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-08-04
 venue: ''
 slidesurl: ''
-paperurl: 'http://ridongen031110.github.io/files/2025-ANT-Summer-School-Tate-Thesis.pdf'
+paperurl: 'http://ridongen031110.github.io/files/2025-ANT-Summer-School-Tate-Thesis-Latex-Note.pdf'
 bibtexurl: ''
 citation: ''
 ---

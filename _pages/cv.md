@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* (Pursuing) Ph.D in Mathematics, Fudan University, 2026-?
+* (Going to) 2026代数与数论暑期学校（研讨班）, 2026
+* (Pursuing) B.S. in Mathematics, Fudan University, 2022-2026
+* 2025代数与数论暑期学校（提高班）, Peking University, 2025
+* 17-th Enhanced Program for Graduate Study， BICMR (Peking University), 2025
+* High School in Shanghai, No.2 High School of East China Normal University, 2019-2022
 
-Work experience
+Work experience (merely template, please ignore)
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,7 +35,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Skills (merely template, please ignore)
 ======
 * Skill 1
 * Skill 2

@@ -8,6 +8,7 @@ date: 2025-08-04
 location: "Beijing, Shanghai"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======

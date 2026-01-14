@@ -13,4 +13,4 @@ citation: 'Vakil, The Rising Sea: Foundations of Algebraic Geometry'
 
 | Date | Speaker | Reading | Notes |
 |:-----|:-----|:-----|:-----|
-| 11 | 22 | 33 | 44 |
+| 11 | 22 | 33 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/13.4_13.7_16.4.pdf) |

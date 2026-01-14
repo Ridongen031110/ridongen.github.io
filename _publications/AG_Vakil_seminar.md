@@ -10,6 +10,7 @@ citation: 'Vakil, The Rising Sea: Foundations of Algebraic Geometry'
 ---
 
 ## Schedule
-|Date|Speaker|Reading|Notes|
+
+| Date | Speaker | Reading | Notes |
 |:-----|:-----|:-----|:-----|
-|11|22|33|44|
+| 11 | 22 | 33 | 44 |

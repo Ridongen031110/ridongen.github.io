@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  seminar:
-    title: 'Seminars'
   books:
     title: 'Books'
   attended-notes:
     title: 'Notes of Attended Lectures'
+  seminars:
+    title: 'Seminars'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

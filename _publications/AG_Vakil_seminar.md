@@ -15,4 +15,12 @@ citation: 'Vakil, The Rising Sea: Foundations of Algebraic Geometry'
 |:-----|:-----|:-----|:-----|
 | October 8, 2025 | Zhiming Chen | 8.1, 8.2, part of 8.3 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/81_83.pdf) |
 | October 12, 2025 | Donghao Li | part of 8.3, 8.4 without proof of Chevalley's Theorem | |
+| October 19, 2025 | Shengqi Zhou | Chapter 9 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap9.pdf) |
+| October 26, 2025 | Sheng Liu | 10.4, part of 10.5  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_104_105.pdf) |
+| November 2, 2025 | Xiaobo Feng | part of 10.5, 10.6, 10.7  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_105_107.pdf) |
+| November 9, 2025 | Zhiming Chen | Chapter 11  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_11.pdf) |
+| November 16, 2025 | Donghao Li | Chapter 12  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_12.pdf) |
+| November 23, 2025 | Shengqi Zhou | 13.1, 13.2  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_131_132.pdf) |
+| December 2, 2025 | Xiaobo Feng | 13.3, part of 13.4, 13.5, 13.6, part of 13.7  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_133_137.pdf) |
+| December 7, 2025 | Zhiming Chen | 14.1  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_141.pdf) |
 | January 14, 2026 | Sheng Liu | 13.4, 13.7, 16.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/13.4_13.7_16.4.pdf) |

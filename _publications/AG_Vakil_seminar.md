@@ -25,3 +25,4 @@ citation: 'Vakil, The Rising Sea: Foundations of Algebraic Geometry'
 | December 7, 2025 | Zhiming Chen | 14.1  | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_141.pdf) |
 | | | | |
 | January 14, 2026 | Sheng Liu | 13.4, 13.7, 16.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/13.4_13.7_16.4.pdf) |
+| January 18, 2026 | Xiaobo Feng | 14.4, 14.5, 14.6, 15.1 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil_144_151.pdf) |

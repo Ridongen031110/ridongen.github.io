@@ -301,15 +301,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _seminars
-  - scope:
-      path: ""
-      type: seminars
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 
 # Sass/SCSS

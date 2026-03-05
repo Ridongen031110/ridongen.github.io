@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Algebraic Geometry Seminar"
 excerpt: "Following The Rising sea: Foundations of Algebraic Geometry by Ravi Vakil."
-collection: notes
+collection: seminars
 ---
 
 ## Schedule

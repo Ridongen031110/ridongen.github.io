@@ -1,5 +1,5 @@
 ---
-title: "Algebraic Geometry"
+title: "Algebraic Geometry I"
 excerpt: "Given by Yehao Zhou in SIMIS in 2025 Fall."
 collection: notes
 ---

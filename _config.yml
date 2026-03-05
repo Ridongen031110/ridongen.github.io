@@ -238,6 +238,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
+  seminars:
+    output: true
+    permalink: /:collection/:path/
 
   #
 
@@ -301,6 +304,15 @@ defaults:
   - scope:
       path: ""
       type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _seminars
+  - scope:
+      path: ""
+      type: seminars
     values:
       layout: single
       author_profile: true

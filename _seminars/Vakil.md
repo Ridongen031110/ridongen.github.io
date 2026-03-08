@@ -33,3 +33,4 @@ collection: seminars
 | February 15, 2026 | Donghao Li | 18.3, part of 18.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_183_184.pdf) |
 | | | | |
 | March 1, 2026 | Zhiming Chen | part of 18.4, 18.5 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_184_185.pdf) |
+| March 8, 2026 | Sheng Liu | 18.6 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_186.pdf) |

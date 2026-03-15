@@ -34,3 +34,4 @@ collection: seminars
 | | | | |
 | March 1, 2026 | Zhiming Chen | part of 18.4, 18.5 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_184_185.pdf) |
 | March 8, 2026 | Sheng Liu | 18.6 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_186.pdf) |
+| March 15, 2026 | Zhiming Chen | 18.7 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_187.pdf) |

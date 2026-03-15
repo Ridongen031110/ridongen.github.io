@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Algebraic Geometry Seminar"
+title: "Positivity in Algebraic Geometry Seminar"
 excerpt: "Following Positivity in Algebraic Geometry I written by Robert Lazarsfeld"
 collection: seminars
 ---

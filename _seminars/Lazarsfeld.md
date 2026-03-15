@@ -1,6 +1,6 @@
 ---
 title: "Positivity in Algebraic Geometry Seminar"
-excerpt: "Following Positivity in Algebraic Geometry I written by Robert Lazarsfeld"
+excerpt: "Following Positivity in Algebraic Geometry I written by Robert Lazarsfeld."
 collection: seminars
 ---
 

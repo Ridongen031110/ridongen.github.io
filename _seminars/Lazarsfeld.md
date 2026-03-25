@@ -9,3 +9,5 @@ collection: seminars
 | Date | Speaker | Reading | Notes |
 |:-----|:-----|:-----|:-----|
 | March 11, 2026 | Yu Yang | 1.1 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_11.pdf) |
+| March 18, 2026 | Zexu Jiang | 1.2 |  |
+| March 25, 2026 | Zexu Jiang | 1.3 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_13.pdf) |

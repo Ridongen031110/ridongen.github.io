@@ -37,3 +37,4 @@ collection: seminars
 | March 15, 2026 | Zhiming Chen | 18.7 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_187.pdf) |
 | March 22, 2026 | Che Liu | 19.1, 19.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_191_192.pdf) |
 | March 29, 2026 | Xiaobo Feng | 19.3, 19.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_193_194.pdf) |
+| April 12, 2026 | Shengqi Zhou | 19.5, 19.6, 19.7 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_195_197.pdf) |

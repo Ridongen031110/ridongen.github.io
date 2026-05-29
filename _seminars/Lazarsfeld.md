@@ -19,4 +19,6 @@ collection: seminars
 | April 29, 2026 | Donghao Li | part of 2.1, 2.2, quick introduction to bigness | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_bigness.pdf) |
 | May 6, 2026 | Yu Yang | part of 1.8.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_18.pdf) |
 | May 13, 2026 | Yu Yang | part of 1.8.A, 1.8.B | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_18.pdf) |
-
+| May 20, 2026 | Zexu Jiang | part of 2.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_22_part1.pdf) |
+| May 27, 2026 | Zexu Jiang | part of 2.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_22_part2.pdf) |
+|  | Donghao Li | proof of Iitaka Fibration | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Iitaka_fibration.pdf) |

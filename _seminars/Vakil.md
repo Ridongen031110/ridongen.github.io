@@ -38,3 +38,12 @@ collection: seminars
 | March 22, 2026 | Che Liu | 19.1, 19.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_191_192.pdf) |
 | March 29, 2026 | Xiaobo Feng | 19.3, 19.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_193_194.pdf) |
 | April 12, 2026 | Shengqi Zhou | 19.5, 19.6, 19.7 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_195_197.pdf) |
+| April 19, 2026 | Donghao Li | 20.1 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_20.pdf) |
+| May 10, 2026 | Donghao Li | 20.2 without Hirzebruch Surfaces | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_20.pdf) |
+
+
+
+
+
+
+

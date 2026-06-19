@@ -41,6 +41,8 @@ collection: seminars
 | April 19, 2026 | Donghao Li | 20.1 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_20.pdf) |
 | May 10, 2026 | Donghao Li | 20.2 without Hirzebruch Surfaces | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_20.pdf) |
 | May 31, 2026 | Zhiming Chen | 19.8, 19.9 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_198_199.pdf) |
+| June 7, 2026 | Sheng Liu | 22.1, 22.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap_22.pdf) |
+| June 14, 2026 | Sheng Liu | 22.3 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap_22.pdf) |
 
 
 

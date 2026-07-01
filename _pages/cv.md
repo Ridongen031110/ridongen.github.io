@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can check my CV [here](https://ridongen031110.github.io/ridongen.github.io/files/cv_2.pdf).
  
 Work experience (merely template, please ignore)
 ======

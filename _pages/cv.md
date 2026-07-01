@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-
+* xxxxx:xxxxxx
  
 Work experience (merely template, please ignore)
 ======

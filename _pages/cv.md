@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+
  
 Work experience (merely template, please ignore)
 ======

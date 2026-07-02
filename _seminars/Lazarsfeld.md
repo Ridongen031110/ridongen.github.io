@@ -22,8 +22,6 @@ collection: seminars
 | May 20, 2026 | Zexu Jiang | part of 2.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_22_part1.pdf) |
 | May 27, 2026 | Zexu Jiang | part of 2.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_22_part2.pdf) |
 |  | Donghao Li | proof of Iitaka Fibration | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Iitaka_fibration.pdf) |
-| May 27, 2026 | Zexu Jiang | part of 2.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_22_part2.pdf) |
-|  | Donghao Li | proof of Iitaka Fibration | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Iitaka_fibration.pdf) |
 | June 3, 2026 | Donghao Li | 2.3.A-2.3.C | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_23.pdf) |
 | June 10, 2026 | Zexu Jiang | 2.4 | [pdf]() |
 | June 17, 2026 | Yu Yang | 1.5.C-1.5.F | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_15C_15F.pdf) |

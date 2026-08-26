@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I'm a PhD student in Shanghai Center of Mathematical Sciences (SCMS) and studying Algebraic Geometry now. 
-You can see my CV [here](https://ridongen031110.github.io/ridongen.github.io/files/cv_2.pdf)
+You can see my CV [here](https://ridongen031110.github.io/ridongen.github.io/files/cv_2.pdf).

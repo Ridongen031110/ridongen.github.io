@@ -32,8 +32,9 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
+  #  如果重新启用，取消掉上述cv的注释，不要取消下面的。
     
   # - title: "CV"
   #   url: /cv-json/

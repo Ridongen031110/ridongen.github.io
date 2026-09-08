@@ -44,6 +44,8 @@ collection: seminars
 | June 7, 2026 | Sheng Liu | 22.1, 22.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap_22.pdf) |
 | June 14, 2026 | Sheng Liu | 22.3 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap_22.pdf) |
 | July 3, 2026 | Sheng Liu | part of 28.2, 28.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_282_284_part.pdf) |
+|  |  |  |  |
+| September 6, 2026 | Xiaobo Feng | 21.1, 21.2, 21.7 | [content](https://hechetory.github.io/p-adic_geometry_note/) |
 
 
 

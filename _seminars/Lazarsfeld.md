@@ -26,4 +26,5 @@ collection: seminars
 | June 10, 2026 | Zexu Jiang | 2.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_24.pdf) |
 | June 17, 2026 | Yu Yang | 1.5.C-1.5.F | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_15C_15F.pdf) |
 | June 24, 2026 | Donghao Li | 2.3.D-2.3.E, with proof of Zariski Decomposition in addition | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_23.pdf) |
+| September 8, 2026 | Yu Yang | part of 3.1.A before Artin-Grothendieck Theorem |  |
 

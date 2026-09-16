@@ -15,7 +15,7 @@ Notes by other people
 
 Friends
 ===
-Here are some peers in math community: [Feiyan Ma](https://fayeema.github.io), [Jiachen Huang](https://godwinjc.github.io), [Yunhao Lai](https://sites.google.com/view/yunhaolai), [Xiaobo Feng](https://hechetory.github.io/git/)...
+Here are some peers in math community: [Feiyan Ma](https://fayeema.github.io), [Jiachen Huang](https://godwinjc.github.io), [Yunhao Lai](https://sites.google.com/view/yunhaolai), [Xiaobo Feng](https://hechetory.github.io/git/), [Sheng Liu](https://losergh.github.io/note)...
 
 Teachers
 ===

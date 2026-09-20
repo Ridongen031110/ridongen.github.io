@@ -47,6 +47,7 @@ collection: seminars
 |  |  |  |  |
 | September 6, 2026 | Xiaobo Feng | 21.1, 21.2, 21.7 | [content](https://hechetory.github.io/p-adic_geometry_note/) |
 | September 13, 2026 | Zhiming Chen | 21.3, 21.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_212_216.pdf) |
+| September 20, 2026 | Donghao Li | 25.1, 25.3 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_251+253_smaller.pdf) |
 
 
 

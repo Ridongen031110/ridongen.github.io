@@ -28,4 +28,6 @@ collection: seminars
 | June 24, 2026 | Donghao Li | 2.3.D-2.3.E, with proof of Zariski Decomposition in addition | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_23.pdf) |
 | September 8, 2026 | Yu Yang | part of 3.1.A before Artin-Grothendieck Theorem | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_31.pdf) |
 | September 15, 2026 | Yu Yang | residue part of 3.1.A, 3.1.B, application to the trivial part of the proof of Kodaira's Vanishing Theorem | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_31.pdf) |
+| September 22, 2026 | Yuquan Wang | 3.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_32_33A.pdf) |
+| September 29, 2026 | Yuquan Wang | 3.3.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_32_33A.pdf) |
 

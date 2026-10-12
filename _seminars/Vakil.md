@@ -49,7 +49,7 @@ collection: seminars
 | September 13, 2026 | Zhiming Chen | 21.3, 21.4 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_212_216.pdf) |
 | September 20, 2026 | Donghao Li | 25.1, 25.3 | [handwritten version](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_251_253_smaller.pdf) or [tex version](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_251_253_tex.pdf) |
 | September 28, 2026 | Xiaoqi Chen | 21.5, 21.6 |  |
-
+| October 11, 2026 | Xiaoqi Chen | Quick view of Chapter 24 |  |
 
 
 

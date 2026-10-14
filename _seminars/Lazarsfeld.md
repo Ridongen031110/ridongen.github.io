@@ -30,4 +30,5 @@ collection: seminars
 | September 15, 2026 | Yu Yang | residue part of 3.1.A, 3.1.B, application to the trivial part of the proof of Kodaira's Vanishing Theorem | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_31.pdf) |
 | September 22, 2026 | Yuquan Wang | 3.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_32_33A.pdf) |
 | September 29, 2026 | Yuquan Wang | 3.3.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_32_33A.pdf) |
+| October 13, 2026 | Sheng Liu | 3.3.B, 3.3.C, 3.4.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Connectness.pdf), [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Ramification.pdf) |
 

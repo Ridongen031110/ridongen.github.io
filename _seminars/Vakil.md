@@ -51,6 +51,7 @@ collection: seminars
 | September 28, 2026 | Xiaoqi Chen | 21.5, 21.6 |  |
 | October 11, 2026 | Xiaoqi Chen | Quick view of Chapter 24 |  |
 | October 18, 2026 | Zhiming Chen | Chapter 26 |  |
+| October 25, 2026 | Sheng Liu | Chapter 27 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_chap_27.pdf) |
 
 
 

@@ -32,4 +32,6 @@ collection: seminars
 | September 29, 2026 | Yuquan Wang | 3.3.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_32_33A.pdf) |
 | October 13, 2026 | Sheng Liu | 3.3.B, 3.3.C, 3.4.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Connectness.pdf), [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_Ramification.pdf) |
 | October 20, 2026 | Sheng Liu | 3.4.B, 3.4.C | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_34B.pdf) |
+| October 27, 2026 | Donghao Li | 4.1.A, 4.1.B, 4.2 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_41_43A.pdf) |
+| November 3, 2026 | Donghao Li | 4.1.B, 4.3.A | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/Lazarsfeld/PoAG_41_43A.pdf) |
 

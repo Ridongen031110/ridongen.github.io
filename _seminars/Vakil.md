@@ -55,6 +55,9 @@ collection: seminars
 | November 8, 2026 | Donghao Li | 28.4, 28.5 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_284_285.pdf) |
 | November 15, 2026 | Donghao Li | 28.6 | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_286.pdf) |
 |  | Sheng Liu | Chow's Lemma | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/Chows_Lemma.pdf) |
+|  |  |  |  |
+|  |  | Topics |  |
+| November 22, 2026 | Shengqi Zhou | Complex Algebraic Surface | [pdf](http://ridongen031110.github.io/ridongen.github.io/files/vakil/vakil_complex_algebraic_surface.pdf) |
 
 
 
